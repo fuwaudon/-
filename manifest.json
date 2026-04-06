@@ -1,0 +1,9 @@
+{
+  "name": "納期管理",
+  "short_name": "納期管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": []
+}
